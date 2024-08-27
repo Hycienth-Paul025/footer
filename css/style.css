@@ -93,7 +93,7 @@ transition: all 0.5s ease;
 @media screen and(max-width:720px) {
     .footer-col{
         width: 50%;
-        margin-bottom: 30PX;
+        margin-bottom: 30px;
     }
 
 
